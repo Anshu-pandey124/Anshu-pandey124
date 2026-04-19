@@ -1,5 +1,6 @@
 #  About Me:
- Hi, I'm Anshu Pandey <br><br>Developer passionate about Web development <br>Currently learning python<br>Building projects in web  design 
+ Hi, I'm Anshu Pandey <br><br>I’m an aspiring Full Stack Developer who enjoys turning ideas into real, working web applications.
+I’m comfortable with technologies like HTML, CSS, JavaScript, React, and Node.js, and I’m continuously improving my skills by working on real-world projects and learning new tools.
 
 
 ## 🌐 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshupan.840@gmail.com) 
